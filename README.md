@@ -1,6 +1,6 @@
 # laravel-mysql-nginx-docker
 
-ref: `https://windii.jp/backend/laravel/laravel-with-docker-compose`
+ref: [aravelの開発環境をdocker-composeで一から構築してみる | RE:ENGINES](https://windii.jp/backend/laravel/laravel-with-docker-compose)
 
 ## Commands
 
